@@ -1,6 +1,6 @@
 # ZigSay
 
-A barely functional cawsay clone made with zig
+A barely functional cowsay clone made with zig
 
 ## Running the project
 
